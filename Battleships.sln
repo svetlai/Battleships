@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battleships.Models", "Battleships.Models\Battleships.Models.csproj", "{F327F520-1B16-4E66-91D9-4BDE6BFBBDEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battleships.Common", "Battleships.Common\Battleships.Common.csproj", "{B7234371-2440-461D-928C-61C6AAB78B2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleShips.Console", "BattleShips.Console\BattleShips.Console.csproj", "{F80E3AF8-C2CA-4E92-8754-9474DB01816E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battleships.Logic", "Battleships.Logic\Battleships.Logic.csproj", "{5586B2E6-C4F4-43ED-92DA-31D13920F879}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F327F520-1B16-4E66-91D9-4BDE6BFBBDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F327F520-1B16-4E66-91D9-4BDE6BFBBDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F327F520-1B16-4E66-91D9-4BDE6BFBBDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F327F520-1B16-4E66-91D9-4BDE6BFBBDEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7234371-2440-461D-928C-61C6AAB78B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7234371-2440-461D-928C-61C6AAB78B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7234371-2440-461D-928C-61C6AAB78B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7234371-2440-461D-928C-61C6AAB78B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F80E3AF8-C2CA-4E92-8754-9474DB01816E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80E3AF8-C2CA-4E92-8754-9474DB01816E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80E3AF8-C2CA-4E92-8754-9474DB01816E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80E3AF8-C2CA-4E92-8754-9474DB01816E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5586B2E6-C4F4-43ED-92DA-31D13920F879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5586B2E6-C4F4-43ED-92DA-31D13920F879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5586B2E6-C4F4-43ED-92DA-31D13920F879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5586B2E6-C4F4-43ED-92DA-31D13920F879}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
